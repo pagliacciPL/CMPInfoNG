@@ -10,8 +10,8 @@ Uwagi:
 2. Active Directory nie przechowuje daty wygaśnięcia hasła a datę ostatniej zmiany hasła i na tej podstawie określa 
 datę wygaśnięcia hasła dodając do daty ostatniej zmiany hasła liczbę dni zdefiniowanych w AD po których to dniach należy zmienić hasło. Dlatego w metodzie GetExpiration jest użyty kod dodający 42 dni do daty ostatniej zmiany hasła.
 
-3. Ikona komputera wykorzystana z aplikacji pochodzi z https://www.iconfinder.com/icons/51413/.
+3. Ikona komputera wykorzystana w aplikacji pochodzi z https://www.iconfinder.com/icons/51413/.
 
 4. Aplikacja rozpowszechniana na licencji freeware/opensource.
 
-5. Wszelkie uwagi/komentarze proszę kierować na pagliacciPL at protonmail.com . Będę również wdzięczny za informację o tym, że ktoś używa tej aplikacji.
+5. Wszelkie uwagi/komentarze proszę kierować na pagliacciPL at protonmail.com . Będę również wdzięczny za informacje o tym, że ktoś używa tej aplikacji.
